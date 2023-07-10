@@ -1,0 +1,51 @@
+     
+                              Great learning data foundation
+      data- Data is just collection of facts 
+       Data Back then -  small - 512kb
+                         Structured- Rows & columns -tb & gb
+       Data Now      -    Huge - 
+                         Unstructured Data -  not rows & coulumns Answer bussiness question.
+
+     Appplications of DS - Detect Frauds of transactions - Bank Members uses Ds algorithms they go through your transactions and 
+                                                           detect fraud transactions.
+                           Gmail spam promotions - Gmail used DS algorithsm text mining text analysis at back end and uses DS Techniques.
+                           Data science Dictionary -Positive negative Spam mails 
+                      Positive Dictionary words does not contain spam words Negative dictionary contain Spam words.
+        
+      Data Science Life Cycle-
+  Data acquisition -> Data Pre processing -> Machine Learning Algorithm -> Pattern Evaluaton -> Knowledge Representation.
+  
+  Data Acquisition - 1.-> Data From Mutiple Sources Unstructured Data (Pdf,jpg,Photos)
+                     2.-> Data storage (Central storage Repository)Integrated and make into one format. 
+                     3.-> Target Data -Essential Data that are usefull are Target Data.
+
+  Data Pre-Processing-Raw Data convert into Tiny Data on wthich u can apply ML Algorithms. 
+                      1.Data Manupulation.Use Manupulation Technique by using(python,R,sql) one line code and extract Essential Data many lines of rows & columns 	
+                      2.Data Visualization. Find Data From Excel Sheet Tabular Data make Plot order,Bar chart able to find Insites and u can make a pictorial represntation.
+
+  MACHINE lEARNING- Application of intelligent algorithms to find meaningull information from the data.
+                   1.Classification ML Algorithms-Problem statement asks you something into classify groups then it is used.
+                   2.Regression ML Algorithms    -Used To predict something based on the something
+                   3.Clustering ML Algorithms    -used to Cluster Data into many groups or segments
+
+  Pattern Evaluation - After application of machine learning algorithms Once Data Mining Techniques have been applied, 
+                       the results have to be evaluated.check accuracy result.
+
+  Knowledge Representation-The identified pattern must be reprensented using simple,aesthetic graphs to the stake holders,clients.
+
+ DATA MINING TASKS(Anamoly Detection)- ERRORS At the stage of data pre processing with the hep of anamaly detection 
+                    Identification of unusual, outliers helps in understanding the variation in data.
+                  Association Rule Mining- This method is uded for finding association amongst different entities
+                                           EX:Beer Daiper Syndrome.
+
+Introduction Machine Learning- Info feed to the machine,determine to detect all data to the MACHINE.
+
+CATGEORIES OF MACHINE LEARNING- Supervised, unsupervised learning.
+          Supervised learning-Two types-Regression and classifiaction. - Y =f(x) Input Varaible(indpendent)=x, Output variable(dependent)=y
+          Classification- predicts the class of a new varaible.Ex- someone has cancer whether he has smoking habit.
+Regression or linear regression    - This method used to estimate the relationship netwwn differnt sntities by x and y axis.                                             
+         
+         Unsupervised learning(clustering) Images with no labels and integration and clustering those data images
+ 
+Languages for DS- R(Statistical analysis) , PYTHON(ML Algorithms,Deep learning frame works)
+ 
